@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Mall and her master, or, A dialogue between a Quaker and his maid</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51704</idno><idno type="EEBO-CITATION">9546803</idno>
+  <idno type="VID">43580</idno>
+  <idno type="EEBO-PROQUEST">2264195334</idno>
+  
+            <idno type="STC">Wing M336</idno>
+            <idno type="STC">ESTC R26799</idno>
+            <idno type="OCLC">09546803</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A51704)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43580)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1335:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Mall and her master, or, A dialogue between a Quaker and his maid</title>
+               </titleStmt>
+               <extent>5 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Satire on the imputed hypocrisy of Quakers.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Society of Friends --  Anecdotes</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:43580:1"/>
+            <pb facs="tcp:43580:1"/>
+            <p>MALL AND HER MASTER: Or A dialogue between a Quaker AND His Maid.</p>
+            <q>
+               <l>Here you may see how Quakers use to Wooe,</l>
+               <l>And what the flesh somet mes can make them do,</l>
+               <l>This Maid he does debauch, and basely slight</l>
+               <l>His lawful Wife, yet still cryes up the Light.</l>
+            </q>
+            <p>LONDON,</p>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb facs="tcp:43580:2"/>
+            <pb n="1" facs="tcp:43580:2"/>
+            <head>MALL AND HER MASTER. OR, A Dialogue: &amp;c.</head>
+            <sp>
+               <speaker>Master.</speaker>
+               <p>MAry where is thy Dame?</p>
+            </sp>
+            <sp>
+               <speaker>Moll.</speaker>
+               <p>Gone Sir to the Meeting at the Bull and Mouth.</p>
+            </sp>
+            <sp>
+               <speaker>Master.</speaker>
+               <p>Let her go, I do not find freedom in my self this day to go forth; But tell me Mary, who was it that thou talked'st with in the Shop last Evening when I came in;</p>
+            </sp>
+            <sp>
+               <speaker>Moll.</speaker>
+               <p>No body, but a young Man a Friend of mine that came to see me.</p>
+            </sp>
+            <sp>
+               <speaker>Master.</speaker>
+               <p>A young Man, a Friend! Mary, then I perceive thou beginnest to think a young Man the best Friend; Well I cannot blame thee, Nature (as they call it) will have i'ts course;</p>
+            </sp>
+            <pb n="2" facs="tcp:43580:3"/>
+            <sp>
+               <speaker>Moll.</speaker>
+               <p>Truly Sir, I do not understand you, the young man came only to see how I did, and so went away.</p>
+            </sp>
+            <sp>
+               <speaker>Master.</speaker>
+               <p>I but Mary was not there a little talk of Love matters between you, did he not kiss thee Mary.</p>
+            </sp>
+            <sp>
+               <speaker>Moll.</speaker>
+               <p>Yes, I must confess ne did salute me.</p>
+            </sp>
+            <sp>
+               <speaker>Master.</speaker>
+               <p>And why Mary may not I salute thee too, come kiss me again.</p>
+            </sp>
+            <sp>
+               <speaker>Moll.</speaker>
+               <p>Oh! I am ashamed, I cannot do it indeed.</p>
+            </sp>
+            <sp>
+               <speaker>Master.</speaker>
+               <p>I say Mary! do it, am not I thy master, and is it not thy duty to be obedient; and do whatever I command thee.</p>
+            </sp>
+            <sp>
+               <speaker>Moll.</speaker>
+               <p>Well if it must be so — but I profess I am quite a<g ref="char:EOLhyphen"/>shamed.</p>
+            </sp>
+            <sp>
+               <speaker>Master.</speaker>
+               <p>Tis well, now thou art a good Damsel, I love to be just and upright in all my ways, ther's thy Kiss again, and now I am out of thy Debt.</p>
+            </sp>
+            <sp>
+               <speaker>Moll.</speaker>
+               <p>Pray let me go, I have my dishes to wash, and the beds to make, and my mistress will be angry when she comes home if I have done,</p>
+            </sp>
+            <sp>
+               <speaker>Master.</speaker>
+               <p>Let the dishes stay, and for the Beds I care not if I help thee make them my self, come put to the door and we will go up presently▪</p>
+            </sp>
+            <sp>
+               <speaker>Mol.</speaker>
+               <p>Oh Gemini I cannot indure your hand between my breast, it does so tickle me, pray let me alone, I shall never have made the bed else;</p>
+            </sp>
+            <sp>
+               <speaker>Master.</speaker>
+               <p>Nay, nay, I will not offer any violence unto thee, but will tell the truth Mary, thou knowest that thy Dame is a Woman far stricken in years, and I do not find that refreshing and consolation from her in bed that is fit and necessary, and therefore the light within tells me 'tis not only lawful but ex<g ref="char:EOLhyphen"/>pedient, to find out a more convenient help-meet, and of all I know I do not know any female Creature to whom the bow<g ref="char:EOLhyphen"/>els of my Affection are more earnestly stretched out than to thy self, Wherefore if thou art free to be kind to me I will give thee twenty shillings a year more than thou hast bargain<g ref="char:EOLhyphen"/>ed for with thy Dame, besides now and then a Petticoat, or a Scarf or the like.</p>
+            </sp>
+            <pb n="3" facs="tcp:43580:3"/>
+            <sp>
+               <speaker>Moll.</speaker>
+               <p>I know not what you mean by being kind to you, I have been always ready to serve you justly and honestly.</p>
+            </sp>
+            <sp>
+               <speaker>Master.</speaker>
+               <p>Thou ignorant maid! I do not mean in the way of honesty, but after the manner of all the earth.</p>
+            </sp>
+            <sp>
+               <speaker>Moll.</speaker>
+               <p>I but master that is a great sin and I dare not do it:</p>
+            </sp>
+            <sp>
+               <speaker>Master.</speaker>
+               <p>Thou speakest now like one of the foolish women, for I do witness unto thee from the breathings of the internal Light, that it is according to Nature, and that there is no sin nor evil in the thing;</p>
+            </sp>
+            <sp>
+               <speaker>Moll.</speaker>
+               <p>But what would my Dame say if she should discover that you are so familiar with me, and what a scandal it would be to your Religion if it were known in the World.</p>
+            </sp>
+            <sp>
+               <speaker>Master.</speaker>
+               <p>Never trouble thy head about that, we will take such opportunities that we will never fear being discovered, and be<g ref="char:EOLhyphen"/>fore thy Dame and other I will seem more strange and harsh to thee than ever to avoid suspition; Wherefore if I chide some times thou must bear it, I will make thee amends with kind<g ref="char:EOLhyphen"/>nesses in private.</p>
+            </sp>
+            <sp>
+               <speaker>Mol.</speaker>
+               <p>Well! but suppose you should get me with child then I am undone.</p>
+            </sp>
+            <sp>
+               <speaker>Master.</speaker>
+               <p>Nay rather it will be a proof thou hast been well done, but if it so happen I do plainly promise to provide suffici<g ref="char:EOLhyphen"/>ently, and in time both for thee and the Baby</p>
+            </sp>
+            <sp>
+               <speaker>Moll.</speaker>
+               <p>I cannot tell what to say to it, I would not be disho<g ref="char:EOLhyphen"/>nest for all the World, but you are my master, and an honest Religious man I will take some time to consider of it further;</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>Nay, nay the Spirit moves me just now, &amp; I must &amp; will.</p>
+            </sp>
+            <sp>
+               <speaker>Moll.</speaker>
+               <p>Oh how you tumble and spoil the bed now 'tis just made, and heark there's some body come in, I warrant 'tis my mistress, for Heavens sake let me rise.</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>Mary, Mary! where art thou! <hi>John</hi> why Husband? What is there no body in the house here.</p>
+            </sp>
+            <sp>
+               <speaker>M.</speaker>
+               <p>What an unlucky woman is this to come just now, run up Mary into the Garret and I will lock this door and pretend my self ill and lain down to sleep, the rest of our business we will finish in the afternoon.</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>Why Mary! are thou dead or deaf,</p>
+            </sp>
+            <pb n="4" facs="tcp:43580:4"/>
+            <sp>
+               <speaker>Moll.</speaker>
+               <p>Neither, but I was in the Garret, making the Boys bed, and came down as fast as I could, and answered you before, but it seems you did not hear me.</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>Where is thy Master?</p>
+            </sp>
+            <sp>
+               <speaker>Moll.</speaker>
+               <p>About an hour ago he was here and complain'd of his head, and I suppose is lain down to sleep for his Chamber door is lockt.</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>John, John, what hast thou lockt thy-self in, prethy open the Door.</p>
+            </sp>
+            <sp>
+               <speaker>Husband.</speaker>
+               <p>I am glad Wife thou art come, for plainly I find my self very ill, what time of the day be it.</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>About the Twelfth hour.</p>
+            </sp>
+            <sp>
+               <speaker>Husband.</speaker>
+               <p>Why then get Dinner ready, I will try to eat a bit, and afterwards thou shalt go to our Friend the Doctor for something to take for I am very ill;</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>Yea, I will go presently and dine after I come back?</p>
+            </sp>
+            <sp>
+               <speaker>Husband.</speaker>
+               <p>Do so then, and tell him that I fear I am in a Feaver I am so hot and that I am not right at heart, and desire him to send me a Cordial to comfort me.</p>
+            </sp>
+            <sp>
+               <speaker>Wife.</speaker>
+               <p>'Tis very like Husband that I shall acquaint him with thy condition, and Mary be sure look well to thy Master till I return, and see he does not catch cold.</p>
+            </sp>
+            <sp>
+               <speaker>Moll.</speaker>
+               <p>I shall do my endeavour.</p>
+            </sp>
+            <sp>
+               <speaker>Master.</speaker>
+               <p>Come prethy do then, now she is gone again, shut the Kitchen door, and let us go up stairs.</p>
+            </sp>
+            <sp>
+               <speaker>Moll.</speaker>
+               <p>Methinks I am scarce free to do it, but I hope you will use me civilly, I profess if you hurt me I will cry out.</p>
+            </sp>
+            <sp>
+               <l>Then up the Stairs they mount with nimble pace,</l>
+               <l>And on her Back she falls, he on her Face:</l>
+               <l>Where in fierce zeal he did so kiss and shake her</l>
+               <l>Till every Joynt of her was turn'd a Quaker</l>
+               <l>He held forth to her with a Lovers hast,</l>
+               <l>Like Lightning piercing, but as quickly past:</l>
+               <pb n="5" facs="tcp:43580:4"/>
+               <l>Thus does fond Nature with her Children play,</l>
+               <l>First shows 'um Joys, then snatches them away.</l>
+               <l>Intranc'd they lye, and lovingly they kiss,</l>
+               <l>As if like Doves they knew no other bliss:</l>
+               <l>Still in one mouth, their Tongues together play,</l>
+               <l>Whilst wandring hands are no le's pleas'd then they:</l>
+               <l>The Quaker sweats all melting in her charms,</l>
+               <l>And fast lockt up within her Legs and Arms.</l>
+               <l>Till tides of pleasure flowing now no more,</l>
+               <l>He lies like Fish left gasping on the Shore,</l>
+               <l>Which makes her ask him, if it hurt him too,</l>
+               <l>He strives to show her — Not — But 'twill not do.</l>
+            </sp>
+            <sp>
+               <speaker>Master.</speaker>
+               <p>Well Mary, did I hurt thee now?</p>
+            </sp>
+            <sp>
+               <speaker>Moll.</speaker>
+               <p>Well Master, or did I cry out?</p>
+            </sp>
+            <sp>
+               <speaker>Master.</speaker>
+               <p>Now dear Mary give me one hug and a buss, and go down, thy Dame is ready I judge to come back again from the Doctors, and the Creature-comfort of a Cordial will come now very seasonable to me.</p>
+            </sp>
+            <sp>
+               <speaker>Moll.</speaker>
+               <p>But Master you promised to give me a new Gown, and truly I shall want it against these Play-days.</p>
+            </sp>
+            <sp>
+               <speaker>Master.</speaker>
+               <p>Thou shalt have it, here's thirty shillings to buy the Stuff, but be sure let it be civil, and made up as Friends wear theirs, without a bit of Lace upon it, for that is a horrid evil, and I would not suffer one to live in my house that should wear it, or any Ribbonds, Curls or other the like abomina<g ref="char:EOLhyphen"/>tions.</p>
+            </sp>
+            <sp>
+               <l>Thus the sly Hypocrite under the Paint,</l>
+               <l>Of fained niceness would be thought a Saint,</l>
+               <l>And colours Whoredoms and the blackest crimes,</l>
+               <l>With railing against Fashions and the Times;</l>
+               <l>Well may the Gallant frollick with his Miss,</l>
+               <l>When even the Grave Zealot too has his.</l>
+            </sp>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
